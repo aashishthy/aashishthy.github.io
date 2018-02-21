@@ -1,0 +1,11 @@
+<map id="Game::render" name="Game::render">
+<area shape="rect" id="node2" href="$classFontTexture.html#afbc67c12b27d3a3649d7873a61ffbdb0" title="FontTexture::render" alt="" coords="163,5,297,32"/>
+<area shape="rect" id="node3" href="$classFontTexture.html#ad878b8d7912f9dbb0f65ea3e5fed3947" title="FontTexture::getWidth" alt="" coords="155,56,305,83"/>
+<area shape="rect" id="node4" href="$classBall.html#a3eaf6d5a9a1f340639f65404189b4722" title="Ball::render" alt="" coords="186,107,274,133"/>
+<area shape="rect" id="node5" href="$classPaddle.html#ae17a6b013ed44d9d441677ecc7a2351e" title="Paddle::render" alt="" coords="177,157,283,184"/>
+<area shape="rect" id="node6" href="$classBrick.html#ae509061e52b2db98bc608c807c19839d" title="Brick::render" alt="" coords="182,208,278,235"/>
+<area shape="rect" id="node7" href="$classResourceManager.html#a575597c974ab420c8ec99ba273a91079" title="ResourceManager::instance" alt="" coords="363,157,547,184"/>
+<area shape="rect" id="node9" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="365,208,545,235"/>
+<area shape="rect" id="node10" href="$classBrick.html#abf2dfcdcd0118477bed24acc6fafd87d" title="Brick::getRandomizedFilename" alt="" coords="353,259,556,285"/>
+<area shape="rect" id="node8" href="$classResourceManager.html#a3b32babd2e81909bbd90d7f2d566fadb" title="ResourceManager::Resource\lManager" alt="" coords="604,150,795,191"/>
+</map>

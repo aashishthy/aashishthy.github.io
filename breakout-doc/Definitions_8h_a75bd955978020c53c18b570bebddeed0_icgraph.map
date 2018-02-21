@@ -1,0 +1,6 @@
+<map id="MenuState" name="MenuState">
+<area shape="rect" id="node2" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="139,5,283,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="455,31,493,57"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="331,5,407,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="541,31,592,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Game::Game" name="Game::Game">
+<area shape="rect" id="node2" href="$classBall.html#a09b3de4b738f8132bd10c3657be6160e" title="Ball::init" alt="" coords="162,5,231,32"/>
+<area shape="rect" id="node3" href="$classPaddle.html#ac85722c9510d08ef970987f060e9a0e6" title="Paddle::init" alt="" coords="153,56,240,83"/>
+</map>

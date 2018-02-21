@@ -1,0 +1,14 @@
+<map id="checkBallCollidesPaddle" name="checkBallCollidesPaddle">
+<area shape="rect" id="node2" href="$classBall.html#a0f7fbccf9cdd139fae1a397d62a64ef9" title="Ball::update" alt="" coords="219,31,309,57"/>
+<area shape="rect" id="node3" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="357,31,461,57"/>
+<area shape="rect" id="node4" href="$classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="509,31,629,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="677,31,765,57"/>
+<area shape="rect" id="node6" href="$classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="813,5,984,32"/>
+<area shape="rect" id="node8" href="$classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1163,31,1325,57"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1032,5,1115,32"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1373,31,1459,57"/>
+<area shape="rect" id="node10" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1507,5,1651,32"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1823,31,1861,57"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1699,5,1775,32"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1909,31,1960,57"/>
+</map>

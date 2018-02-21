@@ -1,0 +1,15 @@
+<map id="Brick::setStrength" name="Brick::setStrength">
+<area shape="rect" id="node2" href="$game_8cpp.html#a91ad489774b37af2718c64dc1b307290" title="createRowOfBricks" alt="" coords="180,56,313,83"/>
+<area shape="rect" id="node3" href="$game_8cpp.html#a88c9fc5d1d17d5dbe388b3c79be29bee" title="createFourRowOfBricks" alt="" coords="361,56,520,83"/>
+<area shape="rect" id="node4" href="$classGame.html#ac58635f5c4b3279c36ff06ef8baec12b" title="Game::setNewGameLevel" alt="" coords="568,56,740,83"/>
+<area shape="rect" id="node5" href="$classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="788,5,908,32"/>
+<area shape="rect" id="node7" href="$classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="1092,56,1263,83"/>
+<area shape="rect" id="node9" href="$classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1441,56,1604,83"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="956,5,1044,32"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1311,56,1393,83"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1652,56,1737,83"/>
+<area shape="rect" id="node11" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1785,31,1929,57"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="2101,56,2140,83"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1977,31,2053,57"/>
+<area shape="rect" id="node14" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="2188,56,2239,83"/>
+</map>

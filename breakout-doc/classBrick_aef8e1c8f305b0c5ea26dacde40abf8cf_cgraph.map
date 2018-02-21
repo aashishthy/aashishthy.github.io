@@ -1,0 +1,9 @@
+<map id="Brick::update" name="Brick::update">
+<area shape="rect" id="node2" href="$collisionData_8h.html#a60a47595f98b903bfcf547a34da54312" title="doesBallCollideWithBrick" alt="" coords="161,56,329,83"/>
+<area shape="rect" id="node6" href="$classBrick.html#a01472acd2309fecfdc9b1e330fc691d2" title="Brick::decrementStrength" alt="" coords="160,107,331,133"/>
+<area shape="rect" id="node7" href="$collisionData_8h.html#a248125222fc225755dd8cda05846a592" title="updateBallAfterBrickCollison" alt="" coords="152,157,339,184"/>
+<area shape="rect" id="node3" href="$classBrick.html#a0b74dea42aeb38ae259d02ab29510b21" title="Brick::getXPos" alt="" coords="396,5,504,32"/>
+<area shape="rect" id="node4" href="$classBrick.html#af7f76fb49e3063f5de2e564ea01114af" title="Brick::getYPos" alt="" coords="395,56,505,83"/>
+<area shape="rect" id="node5" href="$classBrick.html#aab5e034e7d472295229f1281a5e2df4f" title="Brick::getStrength" alt="" coords="387,107,513,133"/>
+<area shape="rect" id="node8" href="$collisionData_8cpp.html#a984cb9db4920340d8d52143ebc8f6d86" title="negatedValue" alt="" coords="399,157,501,184"/>
+</map>

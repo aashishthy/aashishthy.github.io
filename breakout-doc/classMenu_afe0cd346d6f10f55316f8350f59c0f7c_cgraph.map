@@ -1,0 +1,5 @@
+<map id="Menu::ResetMenuTexture" name="Menu::ResetMenuTexture">
+<area shape="rect" id="node2" href="$Definitions_8h.html#a42201b06eded2f6543557c135930eda7" title="loadFontTexture" alt="" coords="224,5,339,32"/>
+<area shape="rect" id="node3" href="$classFontTexture.html#aed5b3ee1612db3e5a35696d25f435a7c" title="FontTexture::loadFromRenderedText" alt="" coords="387,5,620,32"/>
+<area shape="rect" id="node4" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="668,5,857,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="updateBallAfterBrickCollison" name="updateBallAfterBrickCollison">
+<area shape="rect" id="node2" href="$collisionData_8cpp.html#a984cb9db4920340d8d52143ebc8f6d86" title="negatedValue" alt="" coords="253,5,354,32"/>
+<area shape="rect" id="node3" href="$classBrick.html#aab5e034e7d472295229f1281a5e2df4f" title="Brick::getStrength" alt="" coords="240,56,367,83"/>
+</map>

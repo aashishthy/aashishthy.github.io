@@ -1,0 +1,5 @@
+<map id="Brick::getStrength" name="Brick::getStrength">
+<area shape="rect" id="node2" href="$collisionData_8cpp.html#a60a47595f98b903bfcf547a34da54312" title="doesBallCollideWithBrick" alt="" coords="189,5,357,32"/>
+<area shape="rect" id="node4" href="$collisionData_8cpp.html#a248125222fc225755dd8cda05846a592" title="updateBallAfterBrickCollison" alt="" coords="180,56,367,83"/>
+<area shape="rect" id="node3" href="$classBrick.html#aef8e1c8f305b0c5ea26dacde40abf8cf" title="Brick::update" alt="" coords="415,31,513,57"/>
+</map>

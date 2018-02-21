@@ -1,0 +1,4 @@
+<map id="Brick::getYPos" name="Brick::getYPos">
+<area shape="rect" id="node2" href="$collisionData_8cpp.html#a60a47595f98b903bfcf547a34da54312" title="doesBallCollideWithBrick" alt="" coords="164,5,332,32"/>
+<area shape="rect" id="node3" href="$classBrick.html#aef8e1c8f305b0c5ea26dacde40abf8cf" title="Brick::update" alt="" coords="380,5,479,32"/>
+</map>

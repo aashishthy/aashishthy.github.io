@@ -1,0 +1,5 @@
+<map id="doesBallCollideWithBrick" name="doesBallCollideWithBrick">
+<area shape="rect" id="node2" href="$classBrick.html#a0b74dea42aeb38ae259d02ab29510b21" title="Brick::getXPos" alt="" coords="231,5,339,32"/>
+<area shape="rect" id="node3" href="$classBrick.html#af7f76fb49e3063f5de2e564ea01114af" title="Brick::getYPos" alt="" coords="229,56,340,83"/>
+<area shape="rect" id="node4" href="$classBrick.html#aab5e034e7d472295229f1281a5e2df4f" title="Brick::getStrength" alt="" coords="221,107,348,133"/>
+</map>

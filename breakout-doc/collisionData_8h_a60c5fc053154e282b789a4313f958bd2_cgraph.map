@@ -1,0 +1,4 @@
+<map id="checkBallCollidesPaddle" name="checkBallCollidesPaddle">
+<area shape="rect" id="node2" href="$classPaddle.html#a6cf5b220d0884717a9b88906f857bd3c" title="Paddle::getXpos" alt="" coords="220,5,336,32"/>
+<area shape="rect" id="node3" href="$classPaddle.html#a73f28e242ea17be73b6fb5bb3ceba794" title="Paddle::getYpos" alt="" coords="219,56,337,83"/>
+</map>

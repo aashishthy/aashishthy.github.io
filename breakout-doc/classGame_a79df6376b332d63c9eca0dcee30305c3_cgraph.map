@@ -1,0 +1,14 @@
+<map id="Game::update" name="Game::update">
+<area shape="rect" id="node2" href="$classBall.html#a0f7fbccf9cdd139fae1a397d62a64ef9" title="Ball::update" alt="" coords="169,132,260,159"/>
+<area shape="rect" id="node11" href="$Definitions_8h.html#a42201b06eded2f6543557c135930eda7" title="loadFontTexture" alt="" coords="157,233,272,260"/>
+<area shape="rect" id="node3" href="$collisionData_8h.html#a2f220d0b9bde56e46bd0e9168df5aeb7" title="checkBallExits" alt="" coords="382,5,491,32"/>
+<area shape="rect" id="node4" href="$collisionData_8h.html#a60c5fc053154e282b789a4313f958bd2" title="checkBallCollidesPaddle" alt="" coords="354,56,519,83"/>
+<area shape="rect" id="node7" href="$collisionData_8h.html#a385ef6c8bb4aba34018683f0568508f4" title="checkBallCollidesFrontWall" alt="" coords="346,107,527,133"/>
+<area shape="rect" id="node9" href="$collisionData_8h.html#a107a4ad1a309ed6baef08efd1a0d6aa1" title="checkBallCollidesLeftWall" alt="" coords="351,157,523,184"/>
+<area shape="rect" id="node10" href="$collisionData_8h.html#ade86885d336a7fcd324558421ad4f767" title="checkBallCollidesRightWall" alt="" coords="346,208,527,235"/>
+<area shape="rect" id="node5" href="$classPaddle.html#a6cf5b220d0884717a9b88906f857bd3c" title="Paddle::getXpos" alt="" coords="638,31,754,57"/>
+<area shape="rect" id="node6" href="$classPaddle.html#a73f28e242ea17be73b6fb5bb3ceba794" title="Paddle::getYpos" alt="" coords="637,81,755,108"/>
+<area shape="rect" id="node8" href="$collisionData_8cpp.html#a984cb9db4920340d8d52143ebc8f6d86" title="negatedValue" alt="" coords="645,157,747,184"/>
+<area shape="rect" id="node12" href="$classFontTexture.html#aed5b3ee1612db3e5a35696d25f435a7c" title="FontTexture::loadFromRenderedText" alt="" coords="320,259,553,285"/>
+<area shape="rect" id="node13" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="601,259,791,285"/>
+</map>
