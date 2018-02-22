@@ -1,0 +1,12 @@
+<map id="Paddle::handlePaddleInputs" name="Paddle::handlePaddleInputs">
+<area shape="rect" id="node2" href="$classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="236,31,375,57"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="423,31,511,57"/>
+<area shape="rect" id="node4" href="$classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="559,5,729,32"/>
+<area shape="rect" id="node6" href="$classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="908,31,1071,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="777,5,860,32"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1119,31,1204,57"/>
+<area shape="rect" id="node8" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1252,5,1396,32"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1568,31,1607,57"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1444,5,1520,32"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1655,31,1705,57"/>
+</map>

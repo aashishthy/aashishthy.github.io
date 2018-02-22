@@ -10,5 +10,6 @@ var searchData=
   ['resetmenutexture',['ResetMenuTexture',['../classMenu.html#afe0cd346d6f10f55316f8350f59c0f7c',1,'Menu']]],
   ['resourcemanager',['ResourceManager',['../classResourceManager.html',1,'ResourceManager'],['../classResourceManager.html#a3b32babd2e81909bbd90d7f2d566fadb',1,'ResourceManager::ResourceManager()']]],
   ['resourcemanager_2eh',['ResourceManager.h',['../ResourceManager_8h.html',1,'']]],
-  ['returnstrength',['returnStrength',['../game_8cpp.html#ab4c662ed52df0ff6d91ed55930241856',1,'game.cpp']]]
+  ['returnstrength',['returnStrength',['../game_8cpp.html#ab4c662ed52df0ff6d91ed55930241856',1,'game.cpp']]],
+  ['revive_5fmsg_5findex',['REVIVE_MSG_INDEX',['../Definitions_8h.html#a08c4990860b3cf613a24da16e62f377b',1,'Definitions.h']]]
 ];

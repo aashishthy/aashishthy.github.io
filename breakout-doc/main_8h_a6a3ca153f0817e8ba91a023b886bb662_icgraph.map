@@ -1,9 +1,11 @@
 <map id="ClearScreen" name="ClearScreen">
-<area shape="rect" id="node2" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="488,31,573,57"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="813,56,889,83"/>
-<area shape="rect" id="node7" href="$main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="147,5,229,32"/>
-<area shape="rect" id="node3" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="621,56,765,83"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="937,31,976,57"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1024,31,1075,57"/>
-<area shape="rect" id="node8" href="$classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="277,5,440,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="843,99,928,126"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1168,124,1244,151"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="147,23,235,50"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="501,48,584,75"/>
+<area shape="rect" id="node3" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="976,124,1120,151"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1292,99,1331,126"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1379,99,1429,126"/>
+<area shape="rect" id="node8" href="$classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="283,23,453,50"/>
+<area shape="rect" id="node10" href="$classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="632,48,795,75"/>
 </map>

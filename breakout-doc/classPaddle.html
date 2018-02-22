@@ -86,10 +86,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a53895671ddfde9ba668546065ec4f164"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac03c6b92f0b9cd2e67edff4c318ad030"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#ac03c6b92f0b9cd2e67edff4c318ad030">~Paddle</a> ()</td></tr>
 <tr class="separator:ac03c6b92f0b9cd2e67edff4c318ad030"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c9e2f24c7841e992a1e195050373c45"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#a9c9e2f24c7841e992a1e195050373c45">update</a> (SDL_Event, stack&lt; <a class="el" href="structState.html">State</a> &gt; *<a class="el" href="main_8h.html#a32184055286303a9cf641d7489245bdf">gameStateStack</a>)</td></tr>
-<tr class="separator:a9c9e2f24c7841e992a1e195050373c45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a840b626b2137bb9f754563d33693cfac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#a840b626b2137bb9f754563d33693cfac">update</a> ()</td></tr>
+<tr class="separator:a840b626b2137bb9f754563d33693cfac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae17a6b013ed44d9d441677ecc7a2351e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#ae17a6b013ed44d9d441677ecc7a2351e">render</a> (SDL_Renderer *<a class="el" href="main_8h.html#a966da7a60c4ea3ba301e26ccc5efe452">renderer</a>)</td></tr>
 <tr class="separator:ae17a6b013ed44d9d441677ecc7a2351e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef308b9cf28a0071ec3f308d7c5066cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#aef308b9cf28a0071ec3f308d7c5066cb">handlePaddleInputs</a> (SDL_Event &amp;<a class="el" href="classPaddle.html#a58ee0f819891268b077b89df9dc33d8d">event</a>)</td></tr>
+<tr class="separator:aef308b9cf28a0071ec3f308d7c5066cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2363f1f048382f27fb3baa0f30a5f4f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#a2363f1f048382f27fb3baa0f30a5f4f9">updatePos</a> ()</td></tr>
 <tr class="separator:a2363f1f048382f27fb3baa0f30a5f4f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5181cc6842b3ec9f5d6d6e1ebc856a69"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPaddle.html#a5181cc6842b3ec9f5d6d6e1ebc856a69">getWidth</a> ()</td></tr>
@@ -214,17 +216,18 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="classPaddle_a5181cc6842b3ec9f5d6d6e1ebc856a69_icgraph.png" border="0" usemap="#classPaddle_a5181cc6842b3ec9f5d6d6e1ebc856a69_icgraph" alt=""/></div>
 <map name="classPaddle_a5181cc6842b3ec9f5d6d6e1ebc856a69_icgraph" id="classPaddle_a5181cc6842b3ec9f5d6d6e1ebc856a69_icgraph">
 <area shape="rect" id="node2" href="classPaddle.html#a2363f1f048382f27fb3baa0f30a5f4f9" title="Paddle::updatePos" alt="" coords="176,31,308,57"/>
-<area shape="rect" id="node3" href="classPaddle.html#a9c9e2f24c7841e992a1e195050373c45" title="Paddle::update" alt="" coords="356,31,465,57"/>
-<area shape="rect" id="node4" href="classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="513,31,652,57"/>
-<area shape="rect" id="node5" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="700,31,788,57"/>
-<area shape="rect" id="node6" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="836,5,1007,32"/>
-<area shape="rect" id="node8" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1185,31,1348,57"/>
-<area shape="rect" id="node7" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1055,5,1137,32"/>
-<area shape="rect" id="node9" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1396,31,1481,57"/>
-<area shape="rect" id="node10" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1529,5,1673,32"/>
-<area shape="rect" id="node12" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1845,31,1884,57"/>
-<area shape="rect" id="node11" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1721,5,1797,32"/>
-<area shape="rect" id="node13" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1932,31,1983,57"/>
+<area shape="rect" id="node3" href="classPaddle.html#a840b626b2137bb9f754563d33693cfac" title="Paddle::update" alt="" coords="356,31,465,57"/>
+<area shape="rect" id="node4" href="classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="513,31,617,57"/>
+<area shape="rect" id="node5" href="classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="665,31,785,57"/>
+<area shape="rect" id="node6" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="833,31,921,57"/>
+<area shape="rect" id="node7" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="969,5,1140,32"/>
+<area shape="rect" id="node9" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1319,31,1481,57"/>
+<area shape="rect" id="node8" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1188,5,1271,32"/>
+<area shape="rect" id="node10" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1529,31,1615,57"/>
+<area shape="rect" id="node11" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1663,5,1807,32"/>
+<area shape="rect" id="node13" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1979,31,2017,57"/>
+<area shape="rect" id="node12" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1855,5,1931,32"/>
+<area shape="rect" id="node14" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="2065,31,2116,57"/>
 </map>
 </div>
 
@@ -251,21 +254,20 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="classPaddle_a6cf5b220d0884717a9b88906f857bd3c_icgraph.png" border="0" usemap="#classPaddle_a6cf5b220d0884717a9b88906f857bd3c_icgraph" alt=""/></div>
 <map name="classPaddle_a6cf5b220d0884717a9b88906f857bd3c_icgraph" id="classPaddle_a6cf5b220d0884717a9b88906f857bd3c_icgraph">
 <area shape="rect" id="node2" href="collisionData_8cpp.html#a60c5fc053154e282b789a4313f958bd2" title="checkBallCollidesPaddle" alt="" coords="169,5,335,32"/>
-<area shape="rect" id="node15" href="classPaddle.html#a2363f1f048382f27fb3baa0f30a5f4f9" title="Paddle::updatePos" alt="" coords="383,56,515,83"/>
-<area shape="rect" id="node3" href="classBall.html#a0f7fbccf9cdd139fae1a397d62a64ef9" title="Ball::update" alt="" coords="403,5,494,32"/>
-<area shape="rect" id="node4" href="classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="565,5,669,32"/>
-<area shape="rect" id="node5" href="classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="729,5,849,32"/>
-<area shape="rect" id="node6" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="907,31,995,57"/>
-<area shape="rect" id="node7" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="1043,5,1213,32"/>
-<area shape="rect" id="node9" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1392,31,1555,57"/>
-<area shape="rect" id="node8" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1261,5,1344,32"/>
-<area shape="rect" id="node10" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1603,31,1688,57"/>
-<area shape="rect" id="node11" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1736,5,1880,32"/>
-<area shape="rect" id="node13" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="2052,31,2091,57"/>
-<area shape="rect" id="node12" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1928,5,2004,32"/>
-<area shape="rect" id="node14" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="2139,31,2189,57"/>
-<area shape="rect" id="node16" href="classPaddle.html#a9c9e2f24c7841e992a1e195050373c45" title="Paddle::update" alt="" coords="563,56,672,83"/>
-<area shape="rect" id="node17" href="classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="720,56,859,83"/>
+<area shape="rect" id="node15" href="classPaddle.html#a2363f1f048382f27fb3baa0f30a5f4f9" title="Paddle::updatePos" alt="" coords="186,56,318,83"/>
+<area shape="rect" id="node3" href="classBall.html#a0f7fbccf9cdd139fae1a397d62a64ef9" title="Ball::update" alt="" coords="392,5,483,32"/>
+<area shape="rect" id="node4" href="classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="540,31,644,57"/>
+<area shape="rect" id="node5" href="classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="692,31,812,57"/>
+<area shape="rect" id="node6" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="860,31,948,57"/>
+<area shape="rect" id="node7" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="996,5,1167,32"/>
+<area shape="rect" id="node9" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1345,31,1508,57"/>
+<area shape="rect" id="node8" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1215,5,1297,32"/>
+<area shape="rect" id="node10" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1556,31,1641,57"/>
+<area shape="rect" id="node11" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1689,5,1833,32"/>
+<area shape="rect" id="node13" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="2005,31,2044,57"/>
+<area shape="rect" id="node12" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1881,5,1957,32"/>
+<area shape="rect" id="node14" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="2092,31,2143,57"/>
+<area shape="rect" id="node16" href="classPaddle.html#a840b626b2137bb9f754563d33693cfac" title="Paddle::update" alt="" coords="383,56,492,83"/>
 </map>
 </div>
 
@@ -322,6 +324,42 @@ Here is the caller graph for this function:</div>
 <area shape="rect" id="node13" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1989,31,2028,57"/>
 <area shape="rect" id="node12" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1865,5,1941,32"/>
 <area shape="rect" id="node14" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="2076,31,2127,57"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aef308b9cf28a0071ec3f308d7c5066cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef308b9cf28a0071ec3f308d7c5066cb">&#9670;&nbsp;</a></span>handlePaddleInputs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Paddle::handlePaddleInputs </td>
+          <td>(</td>
+          <td class="paramtype">SDL_Event &amp;&#160;</td>
+          <td class="paramname"><em>event</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>This function handles <a class="el" href="classPaddle.html">Paddle</a> Input </p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPaddle_aef308b9cf28a0071ec3f308d7c5066cb_icgraph.png" border="0" usemap="#classPaddle_aef308b9cf28a0071ec3f308d7c5066cb_icgraph" alt=""/></div>
+<map name="classPaddle_aef308b9cf28a0071ec3f308d7c5066cb_icgraph" id="classPaddle_aef308b9cf28a0071ec3f308d7c5066cb_icgraph">
+<area shape="rect" id="node2" href="classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="236,31,375,57"/>
+<area shape="rect" id="node3" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="423,31,511,57"/>
+<area shape="rect" id="node4" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="559,5,729,32"/>
+<area shape="rect" id="node6" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="908,31,1071,57"/>
+<area shape="rect" id="node5" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="777,5,860,32"/>
+<area shape="rect" id="node7" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1119,31,1204,57"/>
+<area shape="rect" id="node8" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1252,5,1396,32"/>
+<area shape="rect" id="node10" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1568,31,1607,57"/>
+<area shape="rect" id="node9" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1444,5,1520,32"/>
+<area shape="rect" id="node11" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1655,31,1705,57"/>
 </map>
 </div>
 
@@ -427,8 +465,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a9c9e2f24c7841e992a1e195050373c45"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c9e2f24c7841e992a1e195050373c45">&#9670;&nbsp;</a></span>update()</h2>
+<a id="a840b626b2137bb9f754563d33693cfac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a840b626b2137bb9f754563d33693cfac">&#9670;&nbsp;</a></span>update()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -436,19 +474,8 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname">void Paddle::update </td>
           <td>(</td>
-          <td class="paramtype">SDL_Event&#160;</td>
-          <td class="paramname"><em>event</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">stack&lt; <a class="el" href="structState.html">State</a> &gt; *&#160;</td>
-          <td class="paramname"><em>gameStateStack</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -456,8 +483,8 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classPaddle_a9c9e2f24c7841e992a1e195050373c45_cgraph.png" border="0" usemap="#classPaddle_a9c9e2f24c7841e992a1e195050373c45_cgraph" alt=""/></div>
-<map name="classPaddle_a9c9e2f24c7841e992a1e195050373c45_cgraph" id="classPaddle_a9c9e2f24c7841e992a1e195050373c45_cgraph">
+<div class="center"><img src="classPaddle_a840b626b2137bb9f754563d33693cfac_cgraph.png" border="0" usemap="#classPaddle_a840b626b2137bb9f754563d33693cfac_cgraph" alt=""/></div>
+<map name="classPaddle_a840b626b2137bb9f754563d33693cfac_cgraph" id="classPaddle_a840b626b2137bb9f754563d33693cfac_cgraph">
 <area shape="rect" id="node2" href="classPaddle.html#a2363f1f048382f27fb3baa0f30a5f4f9" title="Paddle::updatePos" alt="" coords="163,31,295,57"/>
 <area shape="rect" id="node3" href="classPaddle.html#a6cf5b220d0884717a9b88906f857bd3c" title="Paddle::getXpos" alt="" coords="346,5,462,32"/>
 <area shape="rect" id="node4" href="classPaddle.html#a5181cc6842b3ec9f5d6d6e1ebc856a69" title="Paddle::getWidth" alt="" coords="343,56,465,83"/>
@@ -466,18 +493,19 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classPaddle_a9c9e2f24c7841e992a1e195050373c45_icgraph.png" border="0" usemap="#classPaddle_a9c9e2f24c7841e992a1e195050373c45_icgraph" alt=""/></div>
-<map name="classPaddle_a9c9e2f24c7841e992a1e195050373c45_icgraph" id="classPaddle_a9c9e2f24c7841e992a1e195050373c45_icgraph">
-<area shape="rect" id="node2" href="classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="163,31,301,57"/>
-<area shape="rect" id="node3" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="349,31,437,57"/>
-<area shape="rect" id="node4" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="485,5,656,32"/>
-<area shape="rect" id="node6" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="835,31,997,57"/>
-<area shape="rect" id="node5" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="704,5,787,32"/>
-<area shape="rect" id="node7" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1045,31,1131,57"/>
-<area shape="rect" id="node8" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1179,5,1323,32"/>
-<area shape="rect" id="node10" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1495,31,1533,57"/>
-<area shape="rect" id="node9" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1371,5,1447,32"/>
-<area shape="rect" id="node11" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1581,31,1632,57"/>
+<div class="center"><img src="classPaddle_a840b626b2137bb9f754563d33693cfac_icgraph.png" border="0" usemap="#classPaddle_a840b626b2137bb9f754563d33693cfac_icgraph" alt=""/></div>
+<map name="classPaddle_a840b626b2137bb9f754563d33693cfac_icgraph" id="classPaddle_a840b626b2137bb9f754563d33693cfac_icgraph">
+<area shape="rect" id="node2" href="classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="163,31,267,57"/>
+<area shape="rect" id="node3" href="classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="315,31,435,57"/>
+<area shape="rect" id="node4" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="483,31,571,57"/>
+<area shape="rect" id="node5" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="619,5,789,32"/>
+<area shape="rect" id="node7" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="968,31,1131,57"/>
+<area shape="rect" id="node6" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="837,5,920,32"/>
+<area shape="rect" id="node8" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1179,31,1264,57"/>
+<area shape="rect" id="node9" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1312,5,1456,32"/>
+<area shape="rect" id="node11" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1628,31,1667,57"/>
+<area shape="rect" id="node10" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1504,5,1580,32"/>
+<area shape="rect" id="node12" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1715,31,1765,57"/>
 </map>
 </div>
 
@@ -512,17 +540,18 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPaddle_a2363f1f048382f27fb3baa0f30a5f4f9_icgraph.png" border="0" usemap="#classPaddle_a2363f1f048382f27fb3baa0f30a5f4f9_icgraph" alt=""/></div>
 <map name="classPaddle_a2363f1f048382f27fb3baa0f30a5f4f9_icgraph" id="classPaddle_a2363f1f048382f27fb3baa0f30a5f4f9_icgraph">
-<area shape="rect" id="node2" href="classPaddle.html#a9c9e2f24c7841e992a1e195050373c45" title="Paddle::update" alt="" coords="185,31,295,57"/>
-<area shape="rect" id="node3" href="classGame.html#ab6ac1ec04e03f55c0af1d4f9d0540cc7" title="Game::handleInputs" alt="" coords="343,31,481,57"/>
-<area shape="rect" id="node4" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="529,31,617,57"/>
-<area shape="rect" id="node5" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="665,5,836,32"/>
-<area shape="rect" id="node7" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1015,31,1177,57"/>
-<area shape="rect" id="node6" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="884,5,967,32"/>
-<area shape="rect" id="node8" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1225,31,1311,57"/>
-<area shape="rect" id="node9" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1359,5,1503,32"/>
-<area shape="rect" id="node11" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1675,31,1713,57"/>
-<area shape="rect" id="node10" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1551,5,1627,32"/>
-<area shape="rect" id="node12" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1761,31,1812,57"/>
+<area shape="rect" id="node2" href="classPaddle.html#a840b626b2137bb9f754563d33693cfac" title="Paddle::update" alt="" coords="185,31,295,57"/>
+<area shape="rect" id="node3" href="classGame.html#a79df6376b332d63c9eca0dcee30305c3" title="Game::update" alt="" coords="343,31,447,57"/>
+<area shape="rect" id="node4" href="classGame.html#aabc16f4502fce4a172dbdf4511c2d44b" title="Game::SetGame" alt="" coords="495,31,615,57"/>
+<area shape="rect" id="node5" href="main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="663,31,751,57"/>
+<area shape="rect" id="node6" href="classLevels.html#adf97c1c3e6438a72b60ba57fca8779b1" title="Levels::HandleLevelsInput" alt="" coords="799,5,969,32"/>
+<area shape="rect" id="node8" href="classMenu.html#af20f908122aaac8b366afa0a0891aef3" title="Menu::HandleMenuInput" alt="" coords="1148,31,1311,57"/>
+<area shape="rect" id="node7" href="main_8cpp.html#aaa6ea71c1d18a44b00e567c6cad37ff3" title="LevelState" alt="" coords="1017,5,1100,32"/>
+<area shape="rect" id="node9" href="main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1359,31,1444,57"/>
+<area shape="rect" id="node10" href="classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1492,5,1636,32"/>
+<area shape="rect" id="node12" href="main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1808,31,1847,57"/>
+<area shape="rect" id="node11" href="main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1684,5,1760,32"/>
+<area shape="rect" id="node13" href="main_8cpp.html#acb1b98fe4b4002de5d1321df345bb172" title="main" alt="" coords="1895,31,1945,57"/>
 </map>
 </div>
 
