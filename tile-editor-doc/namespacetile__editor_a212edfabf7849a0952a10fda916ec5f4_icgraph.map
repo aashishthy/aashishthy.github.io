@@ -1,0 +1,7 @@
+<map id="tile_editor.load_tile_set" name="tile_editor.load_tile_set">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#af52042a64156e6378bc3fadbc3f92083" title="tile_editor.open_fd" alt="" coords="221,17,348,43"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="788,35,933,76"/>
+<area shape="rect" id="node6" href="$namespacetile__editor.html#aae29f811c25a7d5e14801033355beb0f" title="tile_editor.right_mouse\l_clicked" alt="" coords="208,123,361,164"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a7cacf431474a7981d293c90e17a0c999" title="tile_editor.menu_buttons\l_clicked" alt="" coords="409,5,573,47"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="621,5,740,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tile_editor.clear_map" name="tile_editor.clear_map">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a8b5a71dcd8f0ddcab8da1920abdfcf58" title="tile_editor.reset_map" alt="" coords="196,13,339,39"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a7cacf431474a7981d293c90e17a0c999" title="tile_editor.menu_buttons\l_clicked" alt="" coords="387,5,551,47"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="599,5,717,47"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="765,5,911,47"/>
+</map>

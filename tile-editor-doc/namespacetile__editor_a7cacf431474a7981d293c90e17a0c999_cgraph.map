@@ -1,0 +1,19 @@
+<map id="tile_editor.menu_buttons_clicked" name="tile_editor.menu_buttons_clicked">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#afa982c240ec79759b6a643da51e848ad" title="tile_editor.button1" alt="" coords="226,5,351,32"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#af52042a64156e6378bc3fadbc3f92083" title="tile_editor.open_fd" alt="" coords="225,56,352,83"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a9de1f6523ec093d731b30464ebb73574" title="tile_editor.button2" alt="" coords="226,107,351,133"/>
+<area shape="rect" id="node6" href="$namespacetile__editor.html#ad7b81486b23f38ab385bb6e11ff47442" title="tile_editor.save_map" alt="" coords="219,157,359,184"/>
+<area shape="rect" id="node9" href="$namespacetile__editor.html#a1f1d81544dcdf07bcfb5f5302cda9966" title="tile_editor.button3" alt="" coords="226,208,351,235"/>
+<area shape="rect" id="node10" href="$namespacetile__editor.html#a5f6590f44b0ab71159700e89669d9a29" title="tile_editor.load_map" alt="" coords="219,259,358,285"/>
+<area shape="rect" id="node12" href="$namespacetile__editor.html#acd87ada04662265a05196e231824fe92" title="tile_editor.button4" alt="" coords="226,309,351,336"/>
+<area shape="rect" id="node13" href="$namespacetile__editor.html#a8b5a71dcd8f0ddcab8da1920abdfcf58" title="tile_editor.reset_map" alt="" coords="217,360,360,387"/>
+<area shape="rect" id="node17" href="$namespacetile__editor.html#acb77597940c6670021091594d6910179" title="tile_editor.button5" alt="" coords="226,411,351,437"/>
+<area shape="rect" id="node18" href="$namespacetile__editor.html#a4eec8644ae8faffc50c268bed440d46b" title="tile_editor.exit_tile\l_editor" alt="" coords="225,462,352,503"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#a212edfabf7849a0952a10fda916ec5f4" title="tile_editor.load_tile_set" alt="" coords="411,56,565,83"/>
+<area shape="rect" id="node7" href="$namespacetile__editor.html#a7c73dfe7d0f82f7d91495709d73539bc" title="tile_editor.write_map\l_to_file" alt="" coords="417,117,559,158"/>
+<area shape="rect" id="node8" href="$namespacetile__editor.html#aee8fb4e822246912c07303e91f4c88c2" title="tile_editor.write_map\l_properties_to_file" alt="" coords="417,182,559,223"/>
+<area shape="rect" id="node11" href="$namespacetile__editor.html#aa43487fbf9e9e1695fce9f3205fa4ee6" title="tile_editor.load_textures" alt="" coords="408,259,568,285"/>
+<area shape="rect" id="node14" href="$namespacetile__editor.html#af83060a4391841858f7ede41c1804b2b" title="tile_editor.pop_up_msg" alt="" coords="410,440,566,467"/>
+<area shape="rect" id="node15" href="$namespacetile__editor.html#a4061bc015088fee9ff6529748b83f517" title="tile_editor.clear_map" alt="" coords="417,360,559,387"/>
+<area shape="rect" id="node16" href="$namespacetile__editor.html#afbce69a62d6d386771d95693bdca2434" title="tile_editor.show_grid" alt="" coords="616,360,756,387"/>
+</map>

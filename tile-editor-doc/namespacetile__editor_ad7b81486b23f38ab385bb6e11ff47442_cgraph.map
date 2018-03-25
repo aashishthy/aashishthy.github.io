@@ -1,0 +1,4 @@
+<map id="tile_editor.save_map" name="tile_editor.save_map">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a7c73dfe7d0f82f7d91495709d73539bc" title="tile_editor.write_map\l_to_file" alt="" coords="193,5,335,47"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#aee8fb4e822246912c07303e91f4c88c2" title="tile_editor.write_map\l_properties_to_file" alt="" coords="193,71,335,112"/>
+</map>

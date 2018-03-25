@@ -1,0 +1,5 @@
+<map id="tile_editor.button2" name="tile_editor.button2">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a7cacf431474a7981d293c90e17a0c999" title="tile_editor.menu_buttons\l_clicked" alt="" coords="179,5,343,47"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="391,5,509,47"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="557,5,703,47"/>
+</map>

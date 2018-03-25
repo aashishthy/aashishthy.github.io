@@ -1,0 +1,10 @@
+<map id="tile_editor.text_surface" name="tile_editor.text_surface">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a1b88475ca2cfef65d7fa942f2694b8a2" title="tile_editor.display_text" alt="" coords="207,78,359,105"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a7fa0bd458bb963a75ef685faa4c23894" title="tile_editor.display\l_menu_text" alt="" coords="409,5,531,47"/>
+<area shape="rect" id="node8" href="$namespacetile__editor.html#a02b99121a8d34aa00a342c1e85ad10c0" title="tile_editor.create\l_strength_buttons" alt="" coords="407,71,533,112"/>
+<area shape="rect" id="node9" href="$namespacetile__editor.html#a6ba6930073a3c0b4d235dabf3241b181" title="tile_editor.create\l_menu_buttons" alt="" coords="411,136,529,177"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#a5d437a0e582b3d176fbdb5246b50fcf4" title="tile_editor.load_buttons" alt="" coords="581,78,737,105"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a4c118714c66f4a7f552ed2656b5bc6b4" title="tile_editor.strength\l_buttons_clicked" alt="" coords="785,71,915,112"/>
+<area shape="rect" id="node6" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="963,71,1081,112"/>
+<area shape="rect" id="node7" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="1129,71,1275,112"/>
+</map>

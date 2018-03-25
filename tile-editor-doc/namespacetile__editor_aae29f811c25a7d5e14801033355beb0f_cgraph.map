@@ -1,0 +1,4 @@
+<map id="tile_editor.right_mouse_clicked" name="tile_editor.right_mouse_clicked">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#afbce69a62d6d386771d95693bdca2434" title="tile_editor.show_grid" alt="" coords="214,5,354,32"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a212edfabf7849a0952a10fda916ec5f4" title="tile_editor.load_tile_set" alt="" coords="207,56,361,83"/>
+</map>

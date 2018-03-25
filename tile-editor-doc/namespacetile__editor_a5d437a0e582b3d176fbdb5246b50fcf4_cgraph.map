@@ -1,0 +1,7 @@
+<map id="tile_editor.load_buttons" name="tile_editor.load_buttons">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a7fa0bd458bb963a75ef685faa4c23894" title="tile_editor.display\l_menu_text" alt="" coords="211,5,334,47"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a6ba6930073a3c0b4d235dabf3241b181" title="tile_editor.create\l_menu_buttons" alt="" coords="213,71,332,112"/>
+<area shape="rect" id="node6" href="$namespacetile__editor.html#a02b99121a8d34aa00a342c1e85ad10c0" title="tile_editor.create\l_strength_buttons" alt="" coords="209,136,336,177"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a1b88475ca2cfef65d7fa942f2694b8a2" title="tile_editor.display_text" alt="" coords="384,78,536,105"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#a0022016384942b450a9a8c5af8673363" title="tile_editor.text_surface" alt="" coords="584,78,737,105"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tile_editor.load_textures" name="tile_editor.load_textures">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#a5f6590f44b0ab71159700e89669d9a29" title="tile_editor.load_map" alt="" coords="213,13,352,39"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a7cacf431474a7981d293c90e17a0c999" title="tile_editor.menu_buttons\l_clicked" alt="" coords="400,5,564,47"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="612,5,731,47"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="779,5,924,47"/>
+</map>

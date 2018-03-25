@@ -1,0 +1,6 @@
+<map id="tile_editor.write_map_properties_to_file" name="tile_editor.write_map_properties_to_file">
+<area shape="rect" id="node2" href="$namespacetile__editor.html#ad7b81486b23f38ab385bb6e11ff47442" title="tile_editor.save_map" alt="" coords="195,13,335,39"/>
+<area shape="rect" id="node3" href="$namespacetile__editor.html#a7cacf431474a7981d293c90e17a0c999" title="tile_editor.menu_buttons\l_clicked" alt="" coords="383,5,547,47"/>
+<area shape="rect" id="node4" href="$namespacetile__editor.html#aeeae8b56cb9889ecc73b86c0d9779b72" title="tile_editor.button\l_clicked" alt="" coords="595,5,713,47"/>
+<area shape="rect" id="node5" href="$namespacetile__editor.html#a2330a03ce21c212fa5931183cb995816" title="tile_editor.left_mouse\l_clicked" alt="" coords="761,5,907,47"/>
+</map>
