@@ -1,0 +1,5 @@
+<map id="GArea::OnLoad" name="GArea::OnLoad">
+<area shape="rect" id="node2" href="$classGMap.html#a7cede35c2bddc9658fffcaf245549ae2" title="GMap::OnLoad" alt="" coords="165,5,276,32"/>
+<area shape="rect" id="node3" href="$classGMap.html#a035e3e8547f4f38282d78d3cb1681a90" title="GMap::loadAllProps" alt="" coords="324,5,463,32"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="511,5,691,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PlayerEntity::OnCollision" name="PlayerEntity::OnCollision">
+<area shape="rect" id="node2" href="$classPlayerEntity.html#a609ae3249e1ea2ae034acb172ac9e6d9" title="PlayerEntity::Jump" alt="" coords="252,31,384,57"/>
+<area shape="rect" id="node5" href="$classResourceManager.html#af24f09685d37886b8727fa40aac375f2" title="ResourceManager::playSound\lEffect" alt="" coords="220,82,416,123"/>
+<area shape="rect" id="node3" href="$classPlayerEntity.html#a7d387ed906a9ef547f76a3f1f163f85b" title="PlayerEntity::getFrameSet" alt="" coords="466,5,642,32"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="464,56,644,83"/>
+</map>

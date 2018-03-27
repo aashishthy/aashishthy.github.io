@@ -1,0 +1,4 @@
+<map id="ResourceManager::loadFontTexture" name="ResourceManager::loadFontTexture">
+<area shape="rect" id="node2" href="$classFontTexture.html#a39c24ba695f0200bd5745add5089e867" title="FontTexture::loadFromRenderedText" alt="" coords="239,13,472,39"/>
+<area shape="rect" id="node3" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="520,13,709,39"/>
+</map>

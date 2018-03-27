@@ -1,0 +1,5 @@
+<map id="Menu::loadMenuTextures" name="Menu::loadMenuTextures">
+<area shape="rect" id="node2" href="$Definitions_8h.html#a42201b06eded2f6543557c135930eda7" title="loadFontTexture" alt="" coords="221,5,336,32"/>
+<area shape="rect" id="node3" href="$classFontTexture.html#a39c24ba695f0200bd5745add5089e867" title="FontTexture::loadFromRenderedText" alt="" coords="384,5,617,32"/>
+<area shape="rect" id="node4" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="665,5,855,32"/>
+</map>

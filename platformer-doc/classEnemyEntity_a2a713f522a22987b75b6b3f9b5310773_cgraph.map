@@ -1,0 +1,4 @@
+<map id="EnemyEntity::OnLoad" name="EnemyEntity::OnLoad">
+<area shape="rect" id="node2" href="$classEnemyEntity.html#a8e84c4e55fb195fca916908a39079408" title="EnemyEntity::loadEnemyAnim" alt="" coords="204,5,404,32"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="452,5,632,32"/>
+</map>

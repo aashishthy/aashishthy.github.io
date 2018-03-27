@@ -1,0 +1,4 @@
+<map id="BulletEntity::OnLoad" name="BulletEntity::OnLoad">
+<area shape="rect" id="node2" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="399,5,579,32"/>
+<area shape="rect" id="node3" href="$classBulletEntity.html#abedb07c733352f30da0345f7868c0a83" title="BulletEntity::loadBullet\lExplosionDimensions" alt="" coords="196,27,351,69"/>
+</map>

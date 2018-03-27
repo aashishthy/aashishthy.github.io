@@ -1,0 +1,4 @@
+<map id="GEntity::OnRender" name="GEntity::OnRender">
+<area shape="rect" id="node2" href="$classTextureUtils.html#ae18a38e5a3728b1379b021885f0c8331" title="TextureUtils::OnDraw" alt="" coords="185,5,331,32"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="379,5,559,32"/>
+</map>

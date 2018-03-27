@@ -1,0 +1,4 @@
+<map id="GEntity" name="GEntity">
+<area shape="rect" id="node2" href="$classResourceManager.html" title="{ResourceManager\n|&#45; renderer\l&#45; imageResourceMap\l&#45; soundResourceMap\l|+ loadImg()\l+ loadImg()\l+ loadFontTexture()\l+ loadSoundEffect()\l+ playSoundEffect()\l+ clearResource()\l+ instance()\l&#45; ResourceManager()\l&#45; ResourceManager()\l&#45; ~ResourceManager()\l}" alt="" coords="5,5,156,244"/>
+<area shape="rect" id="node3" href="$classGAnimation.html" title="{GAnimation\n|+ maxFrames\l+ oscillate\l&#45; currentFrame\l&#45; frameInc\l&#45; frameRate\l&#45; oldTime\l|+ GAnimation()\l+ OnAnimate()\l+ SetFrameRate()\l+ SetCurrentFrame()\l+ GetCurrentFrame()\l}" alt="" coords="180,20,323,229"/>
+</map>

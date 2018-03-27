@@ -1,0 +1,16 @@
+<map id="BulletEntity::OnLoop" name="BulletEntity::OnLoop">
+<area shape="rect" id="node2" href="$classGEntity.html#aee4268ee5e7f75679fde7a55ba715ea4" title="GEntity::OnLoop" alt="" coords="227,81,345,108"/>
+<area shape="rect" id="node15" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="196,132,376,159"/>
+<area shape="rect" id="node3" href="$classGEntity.html#a6987cf88d58a23ec6fc0b332e796b4f8" title="GEntity::StopMove" alt="" coords="428,5,559,32"/>
+<area shape="rect" id="node4" href="$classGFPS.html#a61605acfc6b7c47b240040e1a98d11e9" title="GFPS::GetSpeedFactor" alt="" coords="611,107,773,133"/>
+<area shape="rect" id="node5" href="$classGEntity.html#a3701a507432ced8ecf7f9bbe21e2f0d2" title="GEntity::OnAnimate" alt="" coords="424,56,563,83"/>
+<area shape="rect" id="node7" href="$classGEntity.html#a512d08f22031e2c254278023916d31ff" title="GEntity::OnMove" alt="" coords="433,157,554,184"/>
+<area shape="rect" id="node6" href="$classGAnimation.html#a75bf28782af9065a7add9c14d1299ce4" title="GAnimation::OnAnimate" alt="" coords="611,56,773,83"/>
+<area shape="rect" id="node8" href="$classGEntity.html#adbb650ea42cb057a7336f0c58feaff22" title="GEntity::PosValid" alt="" coords="629,157,755,184"/>
+<area shape="rect" id="node9" href="$classGArea.html#ab0acd6f805096d3cdd3d3b70d8d2a713" title="GArea::GetTile" alt="" coords="847,107,955,133"/>
+<area shape="rect" id="node12" href="$classGEntity.html#aaf83258b0a79e0fb5bbca2765c9b6cd8" title="GEntity::PosValidTile" alt="" coords="828,157,975,184"/>
+<area shape="rect" id="node13" href="$classGEntity.html#a00ac1b73a09517c7423e0088efc98cd6" title="GEntity::PosValidEntity" alt="" coords="821,208,981,235"/>
+<area shape="rect" id="node10" href="$classGArea.html#aa8a4db0d7bfec8b173480179212c269c" title="GArea::GetMap" alt="" coords="1033,132,1146,159"/>
+<area shape="rect" id="node11" href="$classGMap.html#acda7ed2b780f8561d90aaaaf8129b016" title="GMap::GetTile" alt="" coords="1036,81,1143,108"/>
+<area shape="rect" id="node14" href="$classGEntity.html#a02eb4996f0c6352bb2b963b5bd915594" title="GEntity::Collides" alt="" coords="1029,208,1149,235"/>
+</map>

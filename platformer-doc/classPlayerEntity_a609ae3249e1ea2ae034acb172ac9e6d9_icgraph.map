@@ -1,0 +1,4 @@
+<map id="PlayerEntity::Jump" name="PlayerEntity::Jump">
+<area shape="rect" id="node2" href="$classCApp.html#aa40cb40544a6d8d47ab4a94c9b236d22" title="CApp::OnKeyDown" alt="" coords="201,5,336,32"/>
+<area shape="rect" id="node3" href="$classPlayerEntity.html#a8fc04f9aa60f370cc73e4f7b396888de" title="PlayerEntity::OnCollision" alt="" coords="185,56,352,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GEntity::OnMove" name="GEntity::OnMove">
+<area shape="rect" id="node2" href="$classGFPS.html#a61605acfc6b7c47b240040e1a98d11e9" title="GFPS::GetSpeedFactor" alt="" coords="175,31,336,57"/>
+<area shape="rect" id="node3" href="$classGEntity.html#adbb650ea42cb057a7336f0c58feaff22" title="GEntity::PosValid" alt="" coords="192,81,319,108"/>
+<area shape="rect" id="node4" href="$classGArea.html#ab0acd6f805096d3cdd3d3b70d8d2a713" title="GArea::GetTile" alt="" coords="410,31,518,57"/>
+<area shape="rect" id="node7" href="$classGEntity.html#aaf83258b0a79e0fb5bbca2765c9b6cd8" title="GEntity::PosValidTile" alt="" coords="391,81,537,108"/>
+<area shape="rect" id="node8" href="$classGEntity.html#a00ac1b73a09517c7423e0088efc98cd6" title="GEntity::PosValidEntity" alt="" coords="384,132,544,159"/>
+<area shape="rect" id="node5" href="$classGArea.html#aa8a4db0d7bfec8b173480179212c269c" title="GArea::GetMap" alt="" coords="595,5,709,32"/>
+<area shape="rect" id="node6" href="$classGMap.html#acda7ed2b780f8561d90aaaaf8129b016" title="GMap::GetTile" alt="" coords="599,56,705,83"/>
+<area shape="rect" id="node9" href="$classGEntity.html#a02eb4996f0c6352bb2b963b5bd915594" title="GEntity::Collides" alt="" coords="592,132,712,159"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CApp::OnEvent" name="CApp::OnEvent">
+<area shape="rect" id="node2" href="$classGEvent.html#a63d65bde7cd89d470ef8fdb681320c05" title="GEvent::OnEvent" alt="" coords="164,385,285,412"/>
+<area shape="rect" id="node3" href="$classGEvent.html#ad816a9ce45d2f291f11c8b403bd42081" title="GEvent::OnKeyDown" alt="" coords="351,5,495,32"/>
+<area shape="rect" id="node4" href="$classGEvent.html#ae775047461851e06e5a9adcec5036666" title="GEvent::OnKeyUp" alt="" coords="359,56,487,83"/>
+<area shape="rect" id="node5" href="$classGEvent.html#acfa3ec40513a95cdc851d9a7da3ed16b" title="GEvent::OnMouseMove" alt="" coords="343,107,502,133"/>
+<area shape="rect" id="node6" href="$classGEvent.html#aaabbc7013d978ec0e5c6a1c92b2eb515" title="GEvent::OnLButtonDown" alt="" coords="339,157,506,184"/>
+<area shape="rect" id="node7" href="$classGEvent.html#a0b8464c8c9460626d12c937ba03ac4f7" title="GEvent::OnRButtonDown" alt="" coords="339,208,507,235"/>
+<area shape="rect" id="node8" href="$classGEvent.html#a2ca9892055df265859c586848a435afd" title="GEvent::OnMButtonDown" alt="" coords="337,259,508,285"/>
+<area shape="rect" id="node9" href="$classGEvent.html#a3f17afaf783817579e8cc56e934c30f0" title="GEvent::OnLButtonUp" alt="" coords="347,309,498,336"/>
+<area shape="rect" id="node10" href="$classGEvent.html#afc8828ede2d735ac81747f3eca4c1f55" title="GEvent::OnRButtonUp" alt="" coords="347,360,499,387"/>
+<area shape="rect" id="node11" href="$classGEvent.html#ac4df56f59e6b9bd6e8b509288f144804" title="GEvent::OnMButtonUp" alt="" coords="345,411,500,437"/>
+<area shape="rect" id="node12" href="$classGEvent.html#a2a7a0b203cc28daf93f422b8b79a5a70" title="GEvent::OnJoyAxis" alt="" coords="355,461,490,488"/>
+<area shape="rect" id="node13" href="$classGEvent.html#a86cd511db39176ca1b8208b064fce99e" title="GEvent::OnJoyBall" alt="" coords="357,512,488,539"/>
+<area shape="rect" id="node14" href="$classGEvent.html#a0e16e7e0a2fe7383d0d59fdfc2f34c14" title="GEvent::OnJoyHat" alt="" coords="358,563,487,589"/>
+<area shape="rect" id="node15" href="$classGEvent.html#ad5ac55f51dcdad8e0fa57e518933be04" title="GEvent::OnJoyButtonDown" alt="" coords="333,613,512,640"/>
+<area shape="rect" id="node16" href="$classGEvent.html#abd0f2c779ae3d3176034d43de5d9002f" title="GEvent::OnJoyButtonUp" alt="" coords="341,664,504,691"/>
+<area shape="rect" id="node17" href="$classGEvent.html#af339281a5c02de473fa1d7a2d57fd46b" title="GEvent::OnExit" alt="" coords="367,715,479,741"/>
+<area shape="rect" id="node18" href="$classGEvent.html#ad1829f55c8181cc77652f4fd2c7438c3" title="GEvent::OnUser" alt="" coords="365,765,481,792"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GEntity::OnRender" name="GEntity::OnRender">
+<area shape="rect" id="node2" href="$classTextureUtils.html#ae18a38e5a3728b1379b021885f0c8331" title="TextureUtils::OnDraw" alt="" coords="212,5,357,32"/>
+<area shape="rect" id="node4" href="$classGAnimation.html#a056b397ddee5d922cd20fe0de5029830" title="GAnimation::GetCurrentFrame" alt="" coords="185,56,384,83"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="432,5,612,32"/>
+</map>

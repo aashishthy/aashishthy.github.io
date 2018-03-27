@@ -1,0 +1,6 @@
+<map id="PlayerEntity::OnRender" name="PlayerEntity::OnRender">
+<area shape="rect" id="node2" href="$classGEntity.html#ae87621e1b63e685eaf787e21963781d7" title="GEntity::OnRender" alt="" coords="419,5,551,32"/>
+<area shape="rect" id="node5" href="$classPlayerEntity.html#aef0b43094f7e268b0a06ba4b371e520f" title="PlayerEntity::OnRender" alt="" coords="212,31,371,57"/>
+<area shape="rect" id="node3" href="$classTextureUtils.html#ae18a38e5a3728b1379b021885f0c8331" title="TextureUtils::OnDraw" alt="" coords="599,5,744,32"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="792,5,972,32"/>
+</map>

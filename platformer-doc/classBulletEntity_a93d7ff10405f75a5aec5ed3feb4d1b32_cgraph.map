@@ -1,0 +1,4 @@
+<map id="BulletEntity::OnCollision" name="BulletEntity::OnCollision">
+<area shape="rect" id="node2" href="$classResourceManager.html#af24f09685d37886b8727fa40aac375f2" title="ResourceManager::playSound\lEffect" alt="" coords="216,5,412,47"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="224,71,404,98"/>
+</map>

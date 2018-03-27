@@ -1,0 +1,10 @@
+<map id="ScoreBoardState" name="ScoreBoardState">
+<area shape="rect" id="node2" href="$main_8cpp.html#a6a3ca153f0817e8ba91a023b886bb662" title="ClearScreen" alt="" coords="231,21,325,47"/>
+<area shape="rect" id="node3" href="$classScoreBoard.html#a8eb5b8a5b88886a7de40a83c23f958a0" title="ScoreBoard::SetScoreBoard" alt="" coords="185,71,371,98"/>
+<area shape="rect" id="node9" href="$classScoreBoard.html#a43ab20c66ef99cad150c0b9d11b20fef" title="ScoreBoard::HandleScoreBoard\lInput" alt="" coords="175,123,381,164"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a6c6e44e324bcc30b6ec0ed829f67fa10" title="ResourceManager::loadFont\lTexture" alt="" coords="429,5,615,47"/>
+<area shape="rect" id="node7" href="$classFontTexture.html#afbc67c12b27d3a3649d7873a61ffbdb0" title="FontTexture::render" alt="" coords="455,71,589,98"/>
+<area shape="rect" id="node8" href="$classFontTexture.html#ad878b8d7912f9dbb0f65ea3e5fed3947" title="FontTexture::getWidth" alt="" coords="447,122,597,149"/>
+<area shape="rect" id="node5" href="$classFontTexture.html#a39c24ba695f0200bd5745add5089e867" title="FontTexture::loadFromRenderedText" alt="" coords="663,13,896,39"/>
+<area shape="rect" id="node6" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="944,13,1133,39"/>
+</map>

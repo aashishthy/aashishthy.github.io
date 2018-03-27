@@ -1,0 +1,6 @@
+<map id="PlayerEntity::OnLoad" name="PlayerEntity::OnLoad">
+<area shape="rect" id="node2" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="479,28,659,54"/>
+<area shape="rect" id="node3" href="$classPlayerEntity.html#a4c308e8443de697f0a23251498da0d6d" title="PlayerEntity::loadFrameDimensions" alt="" coords="200,28,431,54"/>
+<area shape="rect" id="node4" href="$classPlayerEntity.html#a7d387ed906a9ef547f76a3f1f163f85b" title="PlayerEntity::getFrameSet" alt="" coords="227,78,403,105"/>
+<area shape="rect" id="node5" href="$classGEntity.html#a81e216d6e02726232ffd819e0bc3a5c6" title="GEntity::OnLoad" alt="" coords="256,129,375,156"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScoreBoard::SetScoreBoard" name="ScoreBoard::SetScoreBoard">
+<area shape="rect" id="node2" href="$classResourceManager.html#a6c6e44e324bcc30b6ec0ed829f67fa10" title="ResourceManager::loadFont\lTexture" alt="" coords="240,5,425,47"/>
+<area shape="rect" id="node5" href="$classFontTexture.html#afbc67c12b27d3a3649d7873a61ffbdb0" title="FontTexture::render" alt="" coords="265,71,400,98"/>
+<area shape="rect" id="node6" href="$classFontTexture.html#ad878b8d7912f9dbb0f65ea3e5fed3947" title="FontTexture::getWidth" alt="" coords="257,122,408,149"/>
+<area shape="rect" id="node3" href="$classFontTexture.html#a39c24ba695f0200bd5745add5089e867" title="FontTexture::loadFromRenderedText" alt="" coords="473,13,707,39"/>
+<area shape="rect" id="node4" href="$classFontTexture.html#a551f61b4478bd1f2e84242a53ff20738" title="FontTexture::freeFontTexture" alt="" coords="755,13,944,39"/>
+</map>

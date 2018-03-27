@@ -1,0 +1,8 @@
+<map id="GAnimation::GetCurrentFrame" name="GAnimation::GetCurrentFrame">
+<area shape="rect" id="node2" href="$classBulletEntity.html#aa78c1fcfe03db82e7bb5520f507d611a" title="BulletEntity::OnAnimate" alt="" coords="252,5,415,32"/>
+<area shape="rect" id="node3" href="$classBulletEntity.html#a3e01f3910aa98d53b16e6cd3d458610f" title="BulletEntity::OnRender" alt="" coords="256,56,411,83"/>
+<area shape="rect" id="node4" href="$classEnemyEntity.html#a01cb45c60b044c14795d2012b35d7ee6" title="EnemyEntity::OnRender" alt="" coords="252,107,415,133"/>
+<area shape="rect" id="node5" href="$classGEntity.html#afaec02c508fd91f795532474bb73ca8a" title="GEntity::OnRender" alt="" coords="267,157,399,184"/>
+<area shape="rect" id="node6" href="$classLifeUpgradeEntity.html#a93acf5ac4683dbbaf1fb61cefea0f7fe" title="LifeUpgradeEntity::\lOnRender" alt="" coords="267,209,399,250"/>
+<area shape="rect" id="node7" href="$classPlayerEntity.html#a9ef03b73b305a79b1a6919b7d57bae33" title="PlayerEntity::OnRender" alt="" coords="254,275,413,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GArea::GetTile" name="GArea::GetTile">
+<area shape="rect" id="node2" href="$classGArea.html#aa8a4db0d7bfec8b173480179212c269c" title="GArea::GetMap" alt="" coords="161,5,275,32"/>
+<area shape="rect" id="node3" href="$classGMap.html#acda7ed2b780f8561d90aaaaf8129b016" title="GMap::GetTile" alt="" coords="165,56,271,83"/>
+</map>

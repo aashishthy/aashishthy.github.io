@@ -1,0 +1,16 @@
+<map id="PlayerEntity::getFrameSet" name="PlayerEntity::getFrameSet">
+<area shape="rect" id="node2" href="$classPlayerEntity.html#a3657da1a75bc723837ffd117c49d6536" title="PlayerEntity::OnLoad" alt="" coords="229,31,376,57"/>
+<area shape="rect" id="node12" href="$classPlayerEntity.html#aa43e64ef10aaf5cd17a14da16eaca293" title="PlayerEntity::OnLoop" alt="" coords="229,81,376,108"/>
+<area shape="rect" id="node13" href="$classPlayerEntity.html#a609ae3249e1ea2ae034acb172ac9e6d9" title="PlayerEntity::Jump" alt="" coords="237,132,369,159"/>
+<area shape="rect" id="node3" href="$classCApp.html#ac48eeaa86e8be5bbe7d931cb6b5c953b" title="CApp::OnInit" alt="" coords="459,31,555,57"/>
+<area shape="rect" id="node4" href="$classCApp.html#a134439f7f299b9d323d976c787d378ec" title="CApp::OnExecute" alt="" coords="639,31,765,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#aa980beaed19082ae30397a5f3781e7d6" title="GameState" alt="" coords="813,31,901,57"/>
+<area shape="rect" id="node6" href="$classMenu.html#ac27338f201cbe039156f88cdbc7f9eb8" title="Menu::HandleMenuInput" alt="" coords="949,31,1112,57"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a75bd955978020c53c18b570bebddeed0" title="MenuState" alt="" coords="1160,31,1245,57"/>
+<area shape="rect" id="node8" href="$classExit.html#ae6f9300a5cf171969f668caafb0447ae" title="Exit::HandleExitInput" alt="" coords="1293,5,1437,32"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a1e3b6d38df0786ccf7f938d60e386aae" title="Init" alt="" coords="1609,31,1648,57"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a9cf9fc248176b3aa65999135ed5b1d40" title="ExitState" alt="" coords="1485,5,1561,32"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1696,31,1747,57"/>
+<area shape="rect" id="node14" href="$classCApp.html#aa40cb40544a6d8d47ab4a94c9b236d22" title="CApp::OnKeyDown" alt="" coords="440,107,575,133"/>
+<area shape="rect" id="node15" href="$classPlayerEntity.html#a8fc04f9aa60f370cc73e4f7b396888de" title="PlayerEntity::OnCollision" alt="" coords="424,157,591,184"/>
+</map>

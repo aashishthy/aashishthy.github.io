@@ -1,0 +1,4 @@
+<map id="PlayerEntity::Jump" name="PlayerEntity::Jump">
+<area shape="rect" id="node2" href="$classPlayerEntity.html#a7d387ed906a9ef547f76a3f1f163f85b" title="PlayerEntity::getFrameSet" alt="" coords="187,5,363,32"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="185,56,365,83"/>
+</map>

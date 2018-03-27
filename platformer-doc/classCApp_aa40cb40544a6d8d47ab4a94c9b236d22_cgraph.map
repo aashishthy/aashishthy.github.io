@@ -1,0 +1,9 @@
+<map id="CApp::OnKeyDown" name="CApp::OnKeyDown">
+<area shape="rect" id="node2" href="$classCApp.html#ab0da2578a987ddb2633420272a5a7284" title="CApp::OnExit" alt="" coords="235,5,337,32"/>
+<area shape="rect" id="node3" href="$classPlayerEntity.html#a609ae3249e1ea2ae034acb172ac9e6d9" title="PlayerEntity::Jump" alt="" coords="220,56,352,83"/>
+<area shape="rect" id="node6" href="$classResourceManager.html#af24f09685d37886b8727fa40aac375f2" title="ResourceManager::playSound\lEffect" alt="" coords="188,107,384,149"/>
+<area shape="rect" id="node7" href="$classBulletEntity.html#a88c632d19273238f46923e010c761236" title="BulletEntity::clone" alt="" coords="222,173,350,200"/>
+<area shape="rect" id="node4" href="$classPlayerEntity.html#a7d387ed906a9ef547f76a3f1f163f85b" title="PlayerEntity::getFrameSet" alt="" coords="434,31,610,57"/>
+<area shape="rect" id="node5" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="432,81,612,108"/>
+<area shape="rect" id="node8" href="$classBulletEntity.html#a1a2d529b03733f15374a13a04d5a33d3" title="BulletEntity::BulletEntity" alt="" coords="440,173,604,200"/>
+</map>

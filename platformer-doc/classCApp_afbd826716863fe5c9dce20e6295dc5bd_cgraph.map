@@ -1,0 +1,5 @@
+<map id="CApp::GenerateEnemyEntity" name="CApp::GenerateEnemyEntity">
+<area shape="rect" id="node2" href="$classGArea.html#aafa15ce51a3fa05460eea21d6d6a76a8" title="GArea::GetAreaWidth" alt="" coords="244,5,393,32"/>
+<area shape="rect" id="node3" href="$classEnemyEntity.html#a41ced38881af6b441c47e925fb69e4f0" title="EnemyEntity::clone" alt="" coords="251,56,387,83"/>
+<area shape="rect" id="node4" href="$classEnemyEntity.html#a5d6828354c507ffa6e4190c6a91de2f7" title="EnemyEntity::EnemyEntity" alt="" coords="441,56,621,83"/>
+</map>

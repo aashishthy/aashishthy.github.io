@@ -1,0 +1,5 @@
+<map id="LifeUpgradeEntity::OnRender" name="LifeUpgradeEntity::OnRender">
+<area shape="rect" id="node2" href="$classGEntity.html#ae87621e1b63e685eaf787e21963781d7" title="GEntity::OnRender" alt="" coords="185,13,317,39"/>
+<area shape="rect" id="node3" href="$classTextureUtils.html#ae18a38e5a3728b1379b021885f0c8331" title="TextureUtils::OnDraw" alt="" coords="365,13,511,39"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a5c997e34e319e067dfd75ae41fdf817b" title="ResourceManager::loadImg" alt="" coords="559,13,739,39"/>
+</map>

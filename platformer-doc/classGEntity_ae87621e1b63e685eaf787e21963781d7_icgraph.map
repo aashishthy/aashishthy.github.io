@@ -1,0 +1,9 @@
+<map id="GEntity::OnRender" name="GEntity::OnRender">
+<area shape="rect" id="node2" href="$classBulletEntity.html#a82f385fccc077b659291eb61c527ee2b" title="BulletEntity::OnRender" alt="" coords="189,5,344,32"/>
+<area shape="rect" id="node3" href="$classEnemyEntity.html#a2f6238c89118b5b9878f3648aa1ba400" title="EnemyEntity::OnRender" alt="" coords="185,56,348,83"/>
+<area shape="rect" id="node5" href="$classLifeUpgradeEntity.html#a6d9e4d19de852a075c60476c315433ea" title="LifeUpgradeEntity::\lOnRender" alt="" coords="201,107,333,149"/>
+<area shape="rect" id="node7" href="$classPlayerEntity.html#aef0b43094f7e268b0a06ba4b371e520f" title="PlayerEntity::OnRender" alt="" coords="187,173,346,200"/>
+<area shape="rect" id="node4" href="$classEnemyEntity.html#a52f3a432ac5a3456dad94962b85e29a5" title="EnemyEntity::OnRender" alt="" coords="396,56,559,83"/>
+<area shape="rect" id="node6" href="$classLifeUpgradeEntity.html#aa531ae4a6d2beef3798563528393958e" title="LifeUpgradeEntity::\lOnRender" alt="" coords="411,107,543,149"/>
+<area shape="rect" id="node8" href="$classPlayerEntity.html#ae6325983f5837ef0f48404c52489aad4" title="PlayerEntity::OnRender" alt="" coords="398,173,557,200"/>
+</map>

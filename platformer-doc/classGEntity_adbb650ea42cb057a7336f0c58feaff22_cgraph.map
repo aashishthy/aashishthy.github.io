@@ -1,0 +1,8 @@
+<map id="GEntity::PosValid" name="GEntity::PosValid">
+<area shape="rect" id="node2" href="$classGArea.html#ab0acd6f805096d3cdd3d3b70d8d2a713" title="GArea::GetTile" alt="" coords="206,31,314,57"/>
+<area shape="rect" id="node5" href="$classGEntity.html#aaf83258b0a79e0fb5bbca2765c9b6cd8" title="GEntity::PosValidTile" alt="" coords="187,81,333,108"/>
+<area shape="rect" id="node6" href="$classGEntity.html#a00ac1b73a09517c7423e0088efc98cd6" title="GEntity::PosValidEntity" alt="" coords="180,132,340,159"/>
+<area shape="rect" id="node3" href="$classGArea.html#aa8a4db0d7bfec8b173480179212c269c" title="GArea::GetMap" alt="" coords="391,5,505,32"/>
+<area shape="rect" id="node4" href="$classGMap.html#acda7ed2b780f8561d90aaaaf8129b016" title="GMap::GetTile" alt="" coords="395,56,501,83"/>
+<area shape="rect" id="node7" href="$classGEntity.html#a02eb4996f0c6352bb2b963b5bd915594" title="GEntity::Collides" alt="" coords="388,132,508,159"/>
+</map>

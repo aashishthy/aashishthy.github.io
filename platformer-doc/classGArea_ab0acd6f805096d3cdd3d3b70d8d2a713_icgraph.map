@@ -1,0 +1,9 @@
+<map id="GArea::GetTile" name="GArea::GetTile">
+<area shape="rect" id="node2" href="$classGEntity.html#adbb650ea42cb057a7336f0c58feaff22" title="GEntity::PosValid" alt="" coords="161,85,288,112"/>
+<area shape="rect" id="node3" href="$classGEntity.html#a512d08f22031e2c254278023916d31ff" title="GEntity::OnMove" alt="" coords="336,85,457,112"/>
+<area shape="rect" id="node4" href="$classGEntity.html#aee4268ee5e7f75679fde7a55ba715ea4" title="GEntity::OnLoop" alt="" coords="505,85,624,112"/>
+<area shape="rect" id="node5" href="$classBulletEntity.html#a6f032c5135ab5a646450f19bbb778530" title="BulletEntity::OnLoop" alt="" coords="676,5,819,32"/>
+<area shape="rect" id="node6" href="$classEnemyEntity.html#a4bf200bc5ca2947c4ed8f357463c622a" title="EnemyEntity::OnLoop" alt="" coords="672,56,823,83"/>
+<area shape="rect" id="node7" href="$classLifeUpgradeEntity.html#ad5ecf24582fcb735989737deee2f5523" title="LifeUpgradeEntity::\lOnLoop" alt="" coords="681,107,813,149"/>
+<area shape="rect" id="node8" href="$classPlayerEntity.html#aa43e64ef10aaf5cd17a14da16eaca293" title="PlayerEntity::OnLoop" alt="" coords="674,173,821,200"/>
+</map>

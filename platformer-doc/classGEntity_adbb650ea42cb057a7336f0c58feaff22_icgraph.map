@@ -1,0 +1,8 @@
+<map id="GEntity::PosValid" name="GEntity::PosValid">
+<area shape="rect" id="node2" href="$classGEntity.html#a512d08f22031e2c254278023916d31ff" title="GEntity::OnMove" alt="" coords="180,85,301,112"/>
+<area shape="rect" id="node3" href="$classGEntity.html#aee4268ee5e7f75679fde7a55ba715ea4" title="GEntity::OnLoop" alt="" coords="349,85,468,112"/>
+<area shape="rect" id="node4" href="$classBulletEntity.html#a6f032c5135ab5a646450f19bbb778530" title="BulletEntity::OnLoop" alt="" coords="520,5,663,32"/>
+<area shape="rect" id="node5" href="$classEnemyEntity.html#a4bf200bc5ca2947c4ed8f357463c622a" title="EnemyEntity::OnLoop" alt="" coords="516,56,667,83"/>
+<area shape="rect" id="node6" href="$classLifeUpgradeEntity.html#ad5ecf24582fcb735989737deee2f5523" title="LifeUpgradeEntity::\lOnLoop" alt="" coords="525,107,657,149"/>
+<area shape="rect" id="node7" href="$classPlayerEntity.html#aa43e64ef10aaf5cd17a14da16eaca293" title="PlayerEntity::OnLoop" alt="" coords="518,173,665,200"/>
+</map>
