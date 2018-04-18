@@ -1,0 +1,13 @@
+<map id="DropDownItem.DisplayNoObjectSelectedDialogBox" name="DropDownItem.DisplayNoObjectSelectedDialogBox">
+<area shape="rect" id="node2" href="$classDropDownItem.html#abf3ba040e725ba297e06d412dcf86941" title="Generic function add illusion to selected objects The selected illusion is added to the selected game..." alt="" coords="811,5,985,47"/>
+<area shape="rect" id="node4" href="$classDropDownItem.html#ad519e70101e17379eea3cde3328cd084" title="Generic Function to remove illusion from game objects " alt="" coords="800,305,996,347"/>
+<area shape="rect" id="node5" href="$classDropDownItem.html#ad5bbf28e0b2d61877f6e5080e033e6ac" title="Function to update illusion properties to game objects The existing illusion property fields are repl..." alt="" coords="545,89,736,131"/>
+<area shape="rect" id="node6" href="$classDropDownItem.html#ab55329a1ae8b525813166fe9e2b58913" title="Generic function to remove an illusion / behavior from the game object " alt="" coords="260,337,481,379"/>
+<area shape="rect" id="node11" href="$classDropDownItem.html#a8dc7e91b3cf50e4187442dc921ad6d10" title="DropDownItem.UpdatePerspective\lMagik" alt="" coords="261,89,480,131"/>
+<area shape="rect" id="node12" href="$classDropDownItem.html#ac3b235d185703c4c8a98580584123822" title="Function to update the fields of the Carry Object script " alt="" coords="279,155,462,196"/>
+<area shape="rect" id="node3" href="$classDropDownItem.html#a280384fbc3dbf1e08cbf5de2b57d1166" title="The inbuilt OnGUI function to create drop down menu items and buttons " alt="" coords="1044,97,1193,123"/>
+<area shape="rect" id="node7" href="$classDropDownItem.html#ab398e62d86317cc0160fbc2e49fc7635" title="Function remove the Object Selector behavior " alt="" coords="543,337,738,379"/>
+<area shape="rect" id="node8" href="$classDropDownItem.html#a74da797104386afc78dcdd9f516b8896" title="Function to remove the fixed perspective component " alt="" coords="547,403,735,444"/>
+<area shape="rect" id="node9" href="$classDropDownItem.html#ac37112ad4e7e405b40ffe5d7d555a4e8" title="Function to remove the carry object behavior " alt="" coords="547,468,734,509"/>
+<area shape="rect" id="node10" href="$classDropDownItem.html#abdd3a723af87a59f3b3e87015503da53" title="Function to remove the perspective magic behavior " alt="" coords="529,272,752,313"/>
+</map>

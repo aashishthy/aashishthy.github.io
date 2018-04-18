@@ -1,0 +1,25 @@
+<map id="DropDownItem.OnGUI" name="DropDownItem.OnGUI">
+<area shape="rect" id="node2" href="$classDropDownItem.html#a1b516f13eb87eed70cb0c4e6c4ab739b" title="Function to actually draw the FixPerspective and PerspectiveMagik options on teh EditorWindow ..." alt="" coords="209,129,392,171"/>
+<area shape="rect" id="node7" href="$classDropDownItem.html#abf3ba040e725ba297e06d412dcf86941" title="Generic function add illusion to selected objects The selected illusion is added to the selected game..." alt="" coords="745,188,918,229"/>
+<area shape="rect" id="node15" href="$classDropDownItem.html#ad519e70101e17379eea3cde3328cd084" title="Generic Function to remove illusion from game objects " alt="" coords="203,455,399,496"/>
+<area shape="rect" id="node21" href="$classDropDownItem.html#ad5bbf28e0b2d61877f6e5080e033e6ac" title="Function to update illusion properties to game objects The existing illusion property fields are repl..." alt="" coords="463,292,653,333"/>
+<area shape="rect" id="node3" href="$classDropDownItem.html#a4f16f992a8a691c0190daa18aff4e7f8" title="Helper function to show the PerspectiveMagik options User&#45;Customizable options like current collison ..." alt="" coords="463,64,653,105"/>
+<area shape="rect" id="node6" href="$classDropDownItem.html#a7331f4519fdce6862acf53257365692a" title="Function to show FixSizePerspective customizable user otions Option such as default density is shown ..." alt="" coords="463,129,653,171"/>
+<area shape="rect" id="node4" href="$classDropDownItem.html#a04147c8d47b8e0b6246b8d5a27c1c6fc" title="Function to populate a game object array with all such game objects that have &quot;Camera&quot; attached to te..." alt="" coords="733,123,929,164"/>
+<area shape="rect" id="node5" href="$classDropDownItem.html#ac17cd85520f39219ae342da979e805f8" title="Function to find a particular game object " alt="" coords="717,71,945,98"/>
+<area shape="rect" id="node8" href="$classDropDownItem.html#a9215b0f04e5031e0f8790a7a9988ddf0" title="Helper function to clear all values " alt="" coords="1012,71,1207,98"/>
+<area shape="rect" id="node9" href="$classDropDownItem.html#a750dc8df67b26e25466c05bad70595db" title="Generic Function to add carry object component to " alt="" coords="1008,123,1211,164"/>
+<area shape="rect" id="node10" href="$classDropDownItem.html#afad563f30fc6025abf52e2f09b9fd3e8" title="Generic Function to add Object Selector script to a game object " alt="" coords="1009,188,1209,229"/>
+<area shape="rect" id="node11" href="$classDropDownItem.html#a2ff8983af5448232d35f8db59800576c" title="Generic Function to add Object Selector script to a game object " alt="" coords="1000,254,1219,281"/>
+<area shape="rect" id="node12" href="$classDropDownItem.html#ad70af03c1a948557795e05533f703994" title="Function to show the error pop up box " alt="" coords="1006,397,1213,439"/>
+<area shape="rect" id="node13" href="$classDropDownItem.html#abd3a26607b3bc20dc3d4b19c086d3198" title="Function to create a tag in the screen if it is not already present " alt="" coords="1018,305,1201,347"/>
+<area shape="rect" id="node14" href="$classDropDownItem.html#a109b53e004e243266090d7d1d01a6f55" title="Function to add FixedPerspective Illusion to the game object passed in as parameter ..." alt="" coords="993,5,1225,47"/>
+<area shape="rect" id="node16" href="$classDropDownItem.html#ac37112ad4e7e405b40ffe5d7d555a4e8" title="Function to remove the carry object behavior " alt="" coords="465,357,651,399"/>
+<area shape="rect" id="node18" href="$classDropDownItem.html#abdd3a723af87a59f3b3e87015503da53" title="Function to remove the perspective magic behavior " alt="" coords="447,423,669,464"/>
+<area shape="rect" id="node19" href="$classDropDownItem.html#ab398e62d86317cc0160fbc2e49fc7635" title="Function remove the Object Selector behavior " alt="" coords="461,488,655,529"/>
+<area shape="rect" id="node20" href="$classDropDownItem.html#a74da797104386afc78dcdd9f516b8896" title="Function to remove the fixed perspective component " alt="" coords="464,553,652,595"/>
+<area shape="rect" id="node17" href="$classDropDownItem.html#ab55329a1ae8b525813166fe9e2b58913" title="Generic function to remove an illusion / behavior from the game object " alt="" coords="721,488,942,529"/>
+<area shape="rect" id="node22" href="$classDropDownItem.html#af978beb2263648efdbf0c8c03edf1cd0" title="Function to change the tags of the game objects selected " alt="" coords="733,254,930,281"/>
+<area shape="rect" id="node23" href="$classDropDownItem.html#a8dc7e91b3cf50e4187442dc921ad6d10" title="DropDownItem.UpdatePerspective\lMagik" alt="" coords="722,423,941,464"/>
+<area shape="rect" id="node24" href="$classDropDownItem.html#ac3b235d185703c4c8a98580584123822" title="Function to update the fields of the Carry Object script " alt="" coords="740,305,923,347"/>
+</map>

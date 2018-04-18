@@ -1,0 +1,9 @@
+<map id="DropDownItem.AddIllusionToObjects" name="DropDownItem.AddIllusionToObjects">
+<area shape="rect" id="node2" href="$classDropDownItem.html#a9215b0f04e5031e0f8790a7a9988ddf0" title="Helper function to clear all values " alt="" coords="245,5,440,32"/>
+<area shape="rect" id="node3" href="$classDropDownItem.html#a750dc8df67b26e25466c05bad70595db" title="Generic Function to add carry object component to " alt="" coords="241,57,444,98"/>
+<area shape="rect" id="node4" href="$classDropDownItem.html#afad563f30fc6025abf52e2f09b9fd3e8" title="Generic Function to add Object Selector script to a game object " alt="" coords="243,122,443,163"/>
+<area shape="rect" id="node5" href="$classDropDownItem.html#a2ff8983af5448232d35f8db59800576c" title="Generic Function to add Object Selector script to a game object " alt="" coords="233,188,452,215"/>
+<area shape="rect" id="node6" href="$classDropDownItem.html#ad70af03c1a948557795e05533f703994" title="Function to show the error pop up box " alt="" coords="239,239,446,281"/>
+<area shape="rect" id="node7" href="$classDropDownItem.html#abd3a26607b3bc20dc3d4b19c086d3198" title="Function to create a tag in the screen if it is not already present " alt="" coords="251,305,434,346"/>
+<area shape="rect" id="node8" href="$classDropDownItem.html#a109b53e004e243266090d7d1d01a6f55" title="Function to add FixedPerspective Illusion to the game object passed in as parameter ..." alt="" coords="227,370,459,411"/>
+</map>

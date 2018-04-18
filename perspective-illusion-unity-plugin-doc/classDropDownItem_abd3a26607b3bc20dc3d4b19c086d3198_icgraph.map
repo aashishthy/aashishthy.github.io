@@ -1,0 +1,6 @@
+<map id="DropDownItem.CreateTagsIfNotAlreadyPresent" name="DropDownItem.CreateTagsIfNotAlreadyPresent">
+<area shape="rect" id="node2" href="$classDropDownItem.html#abf3ba040e725ba297e06d412dcf86941" title="Generic function add illusion to selected objects The selected illusion is added to the selected game..." alt="" coords="490,5,663,47"/>
+<area shape="rect" id="node4" href="$classDropDownItem.html#af978beb2263648efdbf0c8c03edf1cd0" title="Function to change the tags of the game objects selected " alt="" coords="236,71,433,98"/>
+<area shape="rect" id="node3" href="$classDropDownItem.html#a280384fbc3dbf1e08cbf5de2b57d1166" title="The inbuilt OnGUI function to create drop down menu items and buttons " alt="" coords="720,46,869,73"/>
+<area shape="rect" id="node5" href="$classDropDownItem.html#ad5bbf28e0b2d61877f6e5080e033e6ac" title="Function to update illusion properties to game objects The existing illusion property fields are repl..." alt="" coords="481,71,672,112"/>
+</map>

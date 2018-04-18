@@ -1,0 +1,3 @@
+<map id="CarryObject" name="CarryObject">
+<area shape="rect" id="node3" href="$classFixPerspectiveSize.html" title="{FixPerspectiveSize\n|+ density\l+ rb\l+ trans\l+ startMass\l&#45; start_scale\l&#45; start_distance\l&#45; last_distance\l&#45; is_enabled\l&#45; startScale\l|+ Enable()\l+ Disable()\l+ SignedVolumeOfTriangle()\l+ VolumeOfMesh()\l&#45; Awake()\l&#45; Update()\l}" alt="" coords="93,132,277,400"/>
+</map>

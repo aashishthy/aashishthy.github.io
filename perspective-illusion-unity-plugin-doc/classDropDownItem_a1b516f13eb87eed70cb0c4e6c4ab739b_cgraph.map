@@ -1,0 +1,6 @@
+<map id="DropDownItem.ShowIllusionOptions" name="DropDownItem.ShowIllusionOptions">
+<area shape="rect" id="node2" href="$classDropDownItem.html#a4f16f992a8a691c0190daa18aff4e7f8" title="Helper function to show the PerspectiveMagik options User&#45;Customizable options like current collison ..." alt="" coords="236,5,425,47"/>
+<area shape="rect" id="node5" href="$classDropDownItem.html#a7331f4519fdce6862acf53257365692a" title="Function to show FixSizePerspective customizable user otions Option such as default density is shown ..." alt="" coords="236,71,425,112"/>
+<area shape="rect" id="node3" href="$classDropDownItem.html#a04147c8d47b8e0b6246b8d5a27c1c6fc" title="Function to populate a game object array with all such game objects that have &quot;Camera&quot; attached to te..." alt="" coords="489,8,685,49"/>
+<area shape="rect" id="node4" href="$classDropDownItem.html#ac17cd85520f39219ae342da979e805f8" title="Function to find a particular game object " alt="" coords="473,75,701,102"/>
+</map>
